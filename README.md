@@ -11,3 +11,5 @@ To compile:
 
 For standalone/executable file:
  - Visit releases section
+
+ ![preview](./Crazy_Eights_Preview.gif)
