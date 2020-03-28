@@ -3,9 +3,9 @@ A GUI Crazy Eights game for 2-6 players
 
 To compile:
 
-1. javac Crazy.jar
+    $ javac Crazy.jar
 
-2. java Crazy
+    $ java Crazy
 
 
 
